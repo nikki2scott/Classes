@@ -1,0 +1,15 @@
+/Users/nikkiscott/Desktop/Classes/Classes/bin/Debug/net7.0/Classes
+/Users/nikkiscott/Desktop/Classes/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/nikkiscott/Desktop/Classes/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/nikkiscott/Desktop/Classes/Classes/bin/Debug/net7.0/Classes.dll
+/Users/nikkiscott/Desktop/Classes/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/nikkiscott/Desktop/Classes/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/nikkiscott/Desktop/Classes/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikkiscott/Desktop/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/nikkiscott/Desktop/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/nikkiscott/Desktop/Classes/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/nikkiscott/Desktop/Classes/Classes/obj/Debug/net7.0/Classes.dll
+/Users/nikkiscott/Desktop/Classes/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/nikkiscott/Desktop/Classes/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/nikkiscott/Desktop/Classes/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/nikkiscott/Desktop/Classes/Classes/obj/Debug/net7.0/ref/Classes.dll
